@@ -48,7 +48,7 @@
 
             ![ip-together](./screenshots/ip-together.png)
 
-        * After replace with **/n** at vscode editor using with ***regular expression***, output will be similar like below screenshot.
+        * After replace with **\n** at vscode editor using with ***regular expression***, output will be similar like below screenshot.
 
             ![ip-after-enter](./screenshots/ip-after-enter.png)
 
